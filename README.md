@@ -1,15 +1,9 @@
-# UAE
- # Clone __United Arab Emirates
+### UAE
+## Clone __United Arab Emirates
 
-# Installation
+#### Installation
 
-apt update
-apt upgrade
-apt install python
-apt install python2
-apt install git
-pip2 install requests
-pip2 install mechanize
+ 
 
 # USE
 rm -rf UAE
