@@ -1,26 +1,28 @@
-### UAE
-## Clone __United Arab Emirates
+## UAE
+### Clone __United Arab Emirates
 
 #### Installation
-
+* `apt update`
+* `apt upgrade`
+* `pkg install python2`
+* `pkg install git`
+* `pip2 install requests bs4`
+* `pip2 install futures`
  
 
-# USE
-rm -rf UAE
+#### USE
+* `rm -rf UAE`
 
-git clone https://github.com/HACKERIHSAN/UAE.git
+* `git clone https://github.com/HACKERIHSAN/UAE.git`
 
-cd UAE
+* `cd UAE`
 
-python2 Emarite.py
+* `python2 Emarite.py`
 
-# user name 
-IHSO
-# PASSWORD 
-IHSO
+##### User Name  IHSO
+
+##### Password      IHSO
 
 
-THANKS for USEING MY TOOL
 
-Contact me https://www.facebook.com/unknownXX007
-
+##### THANKS for USEING MY TOOL
